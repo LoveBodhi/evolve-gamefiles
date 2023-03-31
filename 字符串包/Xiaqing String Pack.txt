@@ -1,0 +1,11 @@
+{
+	"city_basic_housing_title": "小屋",
+	"city_amphitheatre": "自然广场",
+	"city_apartment_title1": "绿色大楼",
+	"city_forge": "制作%0",
+	"city_forge_desc": "制作%0",
+	"trait_hooved": "该种族需要依赖清洁器才能保持人口增长。",
+	"trait_hooved_name": " [神清气爽] 特质",
+	"gov_task_horseshoe": "制作清洁器",
+	"resource_Horseshoe_name": "清洁器",
+}

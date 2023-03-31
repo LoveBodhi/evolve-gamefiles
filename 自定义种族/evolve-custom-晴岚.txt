@@ -1,0 +1,25 @@
+{
+    "name": "晴岚",
+    "desc": "晴岚是来自地球的光明使者，他们充满着无尽的智慧和爱，愿意为这个世界带来光明。",
+    "entity": "爱与智慧的使者",
+    "home": "心情",
+    "red": "爱心",
+    "hell": "炽热",
+    "gas": "梦想",
+    "gas_moon": "心愿",
+    "dwarf": "奇迹",
+    "titan": "晨曦",
+    "enceladus": "阳光",
+    "triton": "神秘",
+    "eris": "星光",
+    "genes": 13,
+    "genus": "humanoid",
+    "traitlist": [
+        "intelligent",
+        "unified",
+        "noble",
+        "slow",
+        "diverse",
+        "studious"
+    ]
+}

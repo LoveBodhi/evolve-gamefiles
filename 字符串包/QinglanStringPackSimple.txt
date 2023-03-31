@@ -1,0 +1,10 @@
+﻿{
+"city_basic_housing_title": "小屋",
+
+"city_apartment_title1": "阳光旅舍",
+"city_wardenclyffe": "爱心实验室",
+
+"city_amphitheatre": "爱心广场",
+"city_amphitheatre_desc": "市民的活动场所",
+"city_amphitheatre_flair": "全民运动，增强体质。"
+}

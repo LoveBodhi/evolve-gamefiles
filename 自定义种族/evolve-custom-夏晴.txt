@@ -1,0 +1,27 @@
+{
+    "name": "夏晴",
+    "desc": "夏晴是来自地球的爱心仙子，他们愿意用大自然的力量守护这个世界。",
+    "entity": "代表爱的自然仙子",
+    "home": "心灵",
+    "red": "友谊",
+    "hell": "纯洁",
+    "gas": "悠然",
+    "gas_moon": "树林",
+    "dwarf": "繁星",
+    "titan": "树藤",
+    "enceladus": "清晨",
+    "triton": "天蓝",
+    "eris": "潮汐",
+    "genes": 8,
+    "genus": "humanoid",
+    "traitlist": [
+        "unified",
+        "slow",
+        "diverse",
+        "spiritual",
+        "kindling_kindred",
+        "noble",
+        "environmentalist",
+        "intelligent"
+    ]
+}
